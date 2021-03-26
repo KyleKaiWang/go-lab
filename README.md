@@ -1,2 +1,2 @@
-# go-labs
+# go-lab
 Playground for Golang
